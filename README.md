@@ -1,4 +1,5 @@
-- <h6>👋 Hi, I’m Sonali Shaw</h6>
+- <h1>👋 Hi, I’m Sonali Shaw</h1>
+<hr />
 - 👀 I’m interested in Andriod Development with Kotlin, Node JS, Java, Python, HTML, Java Script and so on..
 - 🌱 I’m currently learning some AI Technologies.
 - 🎓 I'm pursuing my BSc Computer Science in Thakur College.
